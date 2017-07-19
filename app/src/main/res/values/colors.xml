@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#176103</color>
+    <color name="colorPrimaryDark">#1ba71b</color>
+    <color name="colorAccent">#29b347</color>
+    <color name="lineColor">#dfe1dc</color>
+    <color name="bg">#e9e0e0</color>
+    <color name="MaroonLightColor">#a0f2a8</color>
+    <color name="bgIcon">#d6d0d0</color>
+</resources>
